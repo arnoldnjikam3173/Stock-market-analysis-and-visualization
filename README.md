@@ -1,4 +1,4 @@
-# stock-market-analysis-and-visualization
+# STOCK MARKET ANALYSIS AND VISUALIZATION
 
 # Analyzing Historical Stock and Revenue Data
 
